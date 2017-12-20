@@ -6,33 +6,34 @@ app = Flask(__name__)
 
 @app.route('/')
 def main():
-    Abilityaverage = 0
+    abilityAverage = 0
 
     # Prevent the overall ability average from being less than 12
-    while (Abilityaverage < 12):
-        Strengthscore = randint(3,18)
-        Dexterityscore = randint(3,18)
-        Constitutionscore = randint(3,18)
-        Wisdomscore = randint(3,18)
-        Intelligencescore = randint(3,18)
-        Charismascore = randint(3,18)
-        Abilityaverage = (Strengthscore + Dexterityscore + Constitutionscore + Wisdomscore + Intelligencescore + Charismascore)/6
-    return render_template('index.html',
-        charname="Kevin",
-        Strengthscore = Strengthscore,
-        Dexterityscore = Dexterityscore,
-        Constitutionscore = Constitutionscore,
-        Wisdomscore = Wisdomscore,
-        Intelligencescore = Intelligencescore,
-        Charismascore = Charismascore,
-        Strengthmod=get_ability_modifier(Strengthscore),
-        Dexteritymod = get_ability_modifier(Dexterityscore),
-        Constitutionmod = get_ability_modifier(Constitutionscore),
-        Wisdommod = get_ability_modifier(Wisdomscore),
-        Intelligencemod = get_ability_modifier(Intelligencescore),
-        Charismamod = get_ability_modifier(Charismascore))
+    while (abilityAverage < 12):
+        strengthScore = randint(3,18)
+        dexterityScore = randint(3,18)
+        constitutionScore = randint(3,18)
+        wisdomScore = randint(3,18)
+        intelligenceScore = randint(3,18)
+        charismaScore = randint(3,18)
+        abilityAverage = (strengthScore + dexterityScore + constitutionScore + wisdomScore + intelligenceScore + charismaScore)/6
 
-def get_ability_modifier(mod):
+    return render_template('index.html',
+                           charname="Kevin",
+                           Strengthscore = strengthScore,
+                           Dexterityscore = dexterityScore,
+                           Constitutionscore = constitutionScore,
+                           Wisdomscore = wisdomScore,
+                           Intelligencescore = intelligenceScore,
+                           Charismascore = charismaScore,
+                           Strengthmod=getAbilityModifier(strengthScore),
+                           Dexteritymod = getAbilityModifier(dexterityScore),
+                           Constitutionmod = getAbilityModifier(constitutionScore),
+                           Wisdommod = getAbilityModifier(wisdomScore),
+                           Intelligencemod = getAbilityModifier(intelligenceScore),
+                           Charismamod = getAbilityModifier(charismaScore))
+
+def getAbilityModifier(mod):
     return {
         3: '-4',
         4: '-3',
