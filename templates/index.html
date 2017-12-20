@@ -648,13 +648,19 @@ form.charsheet main section.combat > div.deathsaves > div > div.marks div.deaths
       -ms-flex: 1 50%;
           flex: 1 50%;
 }
-form.charsheet main section.combat > div.deathsaves > div div.bubbles {
+form.charsheet main section.combat > div.deathsaves > div div.bubblesS {
   -webkit-box-flex: 1;
-      -ms-flex: 1 40%;
-          flex: 1 40%;
-  margin-left: 5px;
+      -ms-flex: 1 90%;
+          flex: 1 90%;
+  margin-left: 1px;
 }
-form.charsheet main section.combat > div.deathsaves > div div.bubbles input[type="checkbox"] {
+form.charsheet main section.combat > div.deathsaves > div div.bubblesF {
+  -webkit-box-flex: 1;
+      -ms-flex: 1 70%;
+          flex: 1 70%;
+  margin-left: 1px;
+}
+form.charsheet main section.combat > div.deathsaves > div div.bubblesS input[type="checkbox"], form.charsheet main section.combat > div.deathsaves > div div.bubblesF input[type="checkbox"]{
   -webkit-appearance: none;
      -moz-appearance: none;
           appearance: none;
@@ -663,7 +669,7 @@ form.charsheet main section.combat > div.deathsaves > div div.bubbles input[type
   border: 1px solid black;
   border-radius: 10px;
 }
-form.charsheet main section.combat > div.deathsaves > div div.bubbles input[type="checkbox"]:checked {
+form.charsheet main section.combat > div.deathsaves > div div.bubblesS input[type="checkbox"]:checked, form.charsheet main section.combat > div.deathsaves > div div.bubblesF input[type="checkbox"]:checked {
   background-color: black;
 }
 form.charsheet main section.attacksandspellcasting {
@@ -1081,7 +1087,7 @@ form.charsheet main section.features div textarea {
             <div class="marks">
               <div class="deathsuccesses">
                 <label>Successes</label>
-                <div class="bubbles">
+                <div class="bubblesS">
                   <input name="deathsuccess1" type="checkbox" />
                   <input name="deathsuccess2" type="checkbox" />
                   <input name="deathsuccess3" type="checkbox" />
@@ -1089,7 +1095,7 @@ form.charsheet main section.features div textarea {
               </div>
               <div class="deathfails">
                 <label>Failures</label>
-                <div class="bubbles">
+                <div class="bubblesF">
                   <input name="deathfail1" type="checkbox" />
                   <input name="deathfail2" type="checkbox" />
                   <input name="deathfail3" type="checkbox" />
