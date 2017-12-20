@@ -1,0 +1,190 @@
+CR 0 - as needed.
+Awakened Shrub - https://roll20.net/compendium/dnd5e/Monsters:Awakened%20Shrub#h-Awakened%20Shrub
+Baboon - https://roll20.net/compendium/dnd5e/Monsters:Baboon#h-Baboon
+Badger - https://roll20.net/compendium/dnd5e/Monsters:Badger#h-Badger
+Bat - https://roll20.net/compendium/dnd5e/Monsters:Bat#h-Bat
+Cat - https://roll20.net/compendium/dnd5e/Monsters:Cat#h-Cat
+Commoner - https://roll20.net/compendium/dnd5e/Monsters:Commoner#h-Commoner
+Crab - https://roll20.net/compendium/dnd5e/Monsters:Crab#h-Crab
+Deer - https://roll20.net/compendium/dnd5e/Monsters:Deer#h-Deer
+Eagle - https://roll20.net/compendium/dnd5e/Monsters:Eagle#h-Eagle
+Frog - https://roll20.net/compendium/dnd5e/Monsters:Frog#h-Frog
+Giant Fire Beetle - https://roll20.net/compendium/dnd5e/Monsters:Giant%20Fire%20Beetle#h-Giant%20Fire%20Beetle
+Goat - https://roll20.net/compendium/dnd5e/Monsters:Goat#h-Goat
+Hawk - https://roll20.net/compendium/dnd5e/Monsters:Hawk#h-Hawk
+Homunculus - https://roll20.net/compendium/dnd5e/Monsters:Homunculus#h-Homunculus
+Hyena - https://roll20.net/compendium/dnd5e/Monsters:Hyena#h-Hyena
+Jackal - https://roll20.net/compendium/dnd5e/Monsters:Jackal#h-Jackal
+Lemure - https://roll20.net/compendium/dnd5e/Monsters:Lemure#h-Lemure
+Lizard - https://roll20.net/compendium/dnd5e/Monsters:Lizard#h-Lizard
+Octopus - https://roll20.net/compendium/dnd5e/Monsters:Octopus#h-Octopus
+Owl - https://roll20.net/compendium/dnd5e/Monsters:Owl#h-Owl
+Quipper - https://roll20.net/compendium/dnd5e/Monsters:Quipper#h-Quipper
+Rat - https://roll20.net/compendium/dnd5e/Monsters:Rat#h-Rat
+Raven - https://roll20.net/compendium/dnd5e/Monsters:Raven#h-Raven
+Scorpion - https://roll20.net/compendium/dnd5e/Monsters:Scorpion#h-Scorpion
+Sea Horse - https://roll20.net/compendium/dnd5e/Monsters:Sea%20Horse#h-Sea%20Horse
+Shrieker - https://roll20.net/compendium/dnd5e/Monsters:Shrieker#h-Shrieker
+Spider - https://roll20.net/compendium/dnd5e/Monsters:Spider#h-Spider
+Vulture - https://roll20.net/compendium/dnd5e/Monsters:Vulture#h-Vulture
+Weasel - https://roll20.net/compendium/dnd5e/Monsters:Weasel#h-Weasel
+
+CR 1/8
+Bandit - https://roll20.net/compendium/dnd5e/Monsters:Bandit#h-Bandit
+Blood Hawk - https://roll20.net/compendium/dnd5e/Monsters:Blood%20Hawk#h-Blood%20Hawk
+Camel - https://roll20.net/compendium/dnd5e/Monsters:Camel#h-Camel
+Cultist - https://roll20.net/compendium/dnd5e/Monsters:Cultist#h-Cultist
+Diseased Giant Rat - https://roll20.net/compendium/dnd5e/Monsters:Diseased%20Giant%20Rat#h-Diseased%20Giant%20Rat
+Flying Snake - https://roll20.net/compendium/dnd5e/Monsters:Flying%20Snake#h-Flying%20Snake
+Giant Crab - https://roll20.net/compendium/dnd5e/Monsters:Giant%20Crab#h-Giant%20Crab
+Giant Rat - https://roll20.net/compendium/dnd5e/Monsters:Giant%20Rat#h-Giant%20Rat
+Giant Weasel - https://roll20.net/compendium/dnd5e/Monsters:Giant%20Weasel#h-Giant%20Weasel
+Guard - https://roll20.net/compendium/dnd5e/Monsters:Guard#h-Guard
+Kobold - https://roll20.net/compendium/dnd5e/Monsters:Kobold#h-Kobold
+Mastiff - https://roll20.net/compendium/dnd5e/Monsters:Mastiff#h-Mastiff
+Merfolk - https://roll20.net/compendium/dnd5e/Monsters:Merfolk#h-Merfolk
+Mule - https://roll20.net/compendium/dnd5e/Monsters:Mule#h-Mule
+Noble - https://roll20.net/compendium/dnd5e/Monsters:Noble#h-Noble
+Poisonouse Snake - https://roll20.net/compendium/dnd5e/Monsters:Poisonous%20Snake#h-Poisonous%20Snake
+Pony - https://roll20.net/compendium/dnd5e/Monsters:Pony#h-Pony
+Stirge - https://roll20.net/compendium/dnd5e/Monsters:Stirge#h-Stirge
+Tribal Warrior - https://roll20.net/compendium/dnd5e/Monsters:Tribal%20Warrior#h-Tribal%20Warrior
+
+CR 1/4
+Acolyte - https://roll20.net/compendium/dnd5e/Monsters:Acolyte#h-Acolyte
+Axe Beak - https://roll20.net/compendium/dnd5e/Monsters:Axe%20Beak#h-Axe%20Beak
+Blink Dog - https://roll20.net/compendium/dnd5e/Monsters:Blink%20Dog#h-Blink%20Dog
+Boar - https://roll20.net/compendium/dnd5e/Monsters:Boar#h-Boar
+Constrictor Snake - https://roll20.net/compendium/dnd5e/Monsters:Constrictor%20Snake#h-Constrictor%20Snake
+Draft Horse - https://roll20.net/compendium/dnd5e/Monsters:Draft%20Horse#h-Draft%20Horse
+Dretch - https://roll20.net/compendium/dnd5e/Monsters:Dretch#h-Dretch
+Drow - https://roll20.net/compendium/dnd5e/Monsters:Drow#h-Drow
+Elk - https://roll20.net/compendium/dnd5e/Monsters:Elk#h-Elk
+Flying Sword - https://roll20.net/compendium/dnd5e/Monsters:Flying%20Sword#h-Flying%20Sword
+Giant Badger - https://roll20.net/compendium/dnd5e/Monsters:Giant%20Badger#h-Giant%20Badger
+Giant Bat - https://roll20.net/compendium/dnd5e/Monsters:Giant%20Bat#h-Giant%20Bat
+Giant Centipede - https://roll20.net/compendium/dnd5e/Monsters:Giant%20Centipede#h-Giant%20Centipede
+Giant Frog - https://roll20.net/compendium/dnd5e/Monsters:Giant%20Frog#h-Giant%20Frog
+Giant Lizard - https://roll20.net/compendium/dnd5e/Monsters:Giant%20Lizard#h-Giant%20Lizard
+Giant Owl - https://roll20.net/compendium/dnd5e/Monsters:Giant%20Owl#h-Giant%20Owl
+Giant Poisonous Snake - https://roll20.net/compendium/dnd5e/Monsters:Giant%20Poisonous%20Snake#h-Giant%20Poisonous%20Snake
+Giant Wolf Spider - https://roll20.net/compendium/dnd5e/Monsters:Giant%20Wolf%20Spider#h-Giant%20Wolf%20Spider
+Goblin - https://roll20.net/compendium/dnd5e/Monsters:Goblin#h-Goblin
+Grimlock - https://roll20.net/compendium/dnd5e/Monsters:Grimlock#h-Grimlock
+Panther - https://roll20.net/compendium/dnd5e/Monsters:Panther#h-Panther
+Pseudodragon - https://roll20.net/compendium/dnd5e/Monsters:Pseudodragon#h-Pseudodragon
+Riding Horse - https://roll20.net/compendium/dnd5e/Monsters:Riding%20Horse#h-Riding%20Horse
+Skeleton - https://roll20.net/compendium/dnd5e/Monsters:Skeleton#h-Skeleton
+Sprite - https://roll20.net/compendium/dnd5e/Monsters:Sprite#h-Sprite
+Steam Mephit - https://roll20.net/compendium/dnd5e/Monsters:Steam%20Mephit#h-Steam%20Mephit
+Swarm of Bats - https://roll20.net/compendium/dnd5e/Monsters:Swarm%20of%20Bats#h-Swarm%20of%20Bats
+Swarm of Rats - https://roll20.net/compendium/dnd5e/Monsters:Swarm%20of%20Rats#h-Swarm%20of%20Rats
+Swarm of Ravens - https://roll20.net/compendium/dnd5e/Monsters:Swarm%20of%20Ravens#h-Swarm%20of%20Ravens
+Violet Fungus - https://roll20.net/compendium/dnd5e/Monsters:Violet%20Fungus#h-Violet%20Fungus
+Wolf - https://roll20.net/compendium/dnd5e/Monsters:Wolf#h-Wolf
+Zombie - https://roll20.net/compendium/dnd5e/Monsters:Zombie#h-Zombie
+
+CR 1/2
+Ape - https://roll20.net/compendium/dnd5e/Monsters:Ape#h-Ape
+Black Bear - https://roll20.net/compendium/dnd5e/Monsters:Black%20Bear#h-Black%20Bear
+Cockatrice - https://roll20.net/compendium/dnd5e/Monsters:Cockatrice#h-Cockatrice
+Crocodile - https://roll20.net/compendium/dnd5e/Monsters:Crocodile#h-Crocodile
+Darkmantle - https://roll20.net/compendium/dnd5e/Monsters:Darkmantle#h-Darkmantle
+Deep Gnome (Svirfneblin) - https://roll20.net/compendium/dnd5e/Monsters:Deep%20Gnome%20%28Svirfneblin%29#h-Deep%20Gnome%20%28Svirfneblin%29
+Dust Mephit - https://roll20.net/compendium/dnd5e/Monsters:Dust%20Mephit#h-Dust%20Mephit
+Giant Goat - https://roll20.net/compendium/dnd5e/Monsters:Giant%20Goat#h-Giant%20Goat
+Giant Sea Horse - https://roll20.net/compendium/dnd5e/Monsters:Giant%20Sea%20Horse#h-Giant%20Sea%20Horse
+Giant Wasp - https://roll20.net/compendium/dnd5e/Monsters:Giant%20Wasp#h-Giant%20Wasp
+Gnoll - https://roll20.net/compendium/dnd5e/Monsters:Gnoll#h-Gnoll
+Gray Ooze - https://roll20.net/compendium/dnd5e/Monsters:Gray%20Ooze#h-Gray%20Ooze
+Hobgoblin - https://roll20.net/compendium/dnd5e/Monsters:Hobgoblin#h-Hobgoblin
+Ice Mephit - https://roll20.net/compendium/dnd5e/Monsters:Ice%20Mephit#h-Ice%20Mephit
+Lizardfolk - https://roll20.net/compendium/dnd5e/Monsters:Lizardfolk#h-Lizardfolk
+Magma Mephit - https://roll20.net/compendium/dnd5e/Monsters:Magma%20Mephit#h-Magma%20Mephit
+Magmin - https://roll20.net/compendium/dnd5e/Monsters:Magmin#h-Magmin
+Orc - https://roll20.net/compendium/dnd5e/Monsters:Orc#h-Orc
+Reef Shark - https://roll20.net/compendium/dnd5e/Monsters:Reef%20Shark#h-Reef%20Shark
+Rust Monster - https://roll20.net/compendium/dnd5e/Monsters:Rust%20Monster#h-Rust%20Monster
+Sahuagin - https://roll20.net/compendium/dnd5e/Monsters:Sahuagin#h-Sahuagin
+Satyr - https://roll20.net/compendium/dnd5e/Monsters:Satyr#h-Satyr
+Scout - https://roll20.net/compendium/dnd5e/Monsters:Scout#h-Scout
+Shadow - https://roll20.net/compendium/dnd5e/Monsters:Shadow#h-Shadow
+Swarm of Beetles - https://roll20.net/compendium/dnd5e/Monsters:Swarm%20of%20Beetles#h-Swarm%20of%20Beetles
+Swarm of Centipedes - https://roll20.net/compendium/dnd5e/Monsters:Swarm%20of%20Centipedes#h-Swarm%20of%20Centipedes
+Swarm of Insects - https://roll20.net/compendium/dnd5e/Monsters:Swarm%20of%20Insects#h-Swarm%20of%20Insects
+Swarm of Spiders - https://roll20.net/compendium/dnd5e/Monsters:Swarm%20of%20Spiders#h-Swarm%20of%20Spiders
+Swarm of Wasps - https://roll20.net/compendium/dnd5e/Monsters:Swarm%20of%20Wasps#h-Swarm%20of%20Wasps
+Thug - https://roll20.net/compendium/dnd5e/Monsters:Thug#h-Thug
+Warhorse - https://roll20.net/compendium/dnd5e/Monsters:Warhorse#h-Warhorse
+Warhorse Skeleton - https://roll20.net/compendium/dnd5e/Monsters:Warhorse%20Skeleton#h-Warhorse%20Skeleton
+Worg - https://roll20.net/compendium/dnd5e/Monsters:Worg#h-Worg
+
+CR 1
+Animated Armor - https://roll20.net/compendium/dnd5e/Monsters:Animated%20Armor#h-Animated%20Armor
+Brass Dragon Wyrmling - https://roll20.net/compendium/dnd5e/Monsters:Brass%20Dragon%20Wyrmling#h-Brass%20Dragon%20Wyrmling
+Brown Bear - https://roll20.net/compendium/dnd5e/Monsters:Brown%20Bear#h-Brown%20Bear
+Bugbear - https://roll20.net/compendium/dnd5e/Monsters:Bugbear#h-Bugbear
+Copper Dragon Wyrmling - https://roll20.net/compendium/dnd5e/Monsters:Copper%20Dragon%20Wyrmling#h-Copper%20Dragon%20Wyrmling
+Death Dog - https://roll20.net/compendium/dnd5e/Monsters:Death%20Dog#h-Death%20Dog
+Dire Wolf - https://roll20.net/compendium/dnd5e/Monsters:Dire%20Wolf#h-Dire%20Wolf
+Dryad - https://roll20.net/compendium/dnd5e/Monsters:Dryad#h-Dryad
+Duergar - https://roll20.net/compendium/dnd5e/Monsters:Duergar#h-Duergar
+Ghoul - https://roll20.net/compendium/dnd5e/Monsters:Ghoul#h-Ghoul
+Giant Eagle - https://roll20.net/compendium/dnd5e/Monsters:Giant%20Eagle#h-Giant%20Eagle
+Giant Hyena - https://roll20.net/compendium/dnd5e/Monsters:Giant%20Hyena#h-Giant%20Hyena
+Giant Octopus - https://roll20.net/compendium/dnd5e/Monsters:Giant%20Octopus#h-Giant%20Octopus
+Giant Spider - https://roll20.net/compendium/dnd5e/Monsters:Giant%20Spider#h-Giant%20Spider
+Giant Toad - https://roll20.net/compendium/dnd5e/Monsters:Giant%20Toad#h-Giant%20Toad
+Giant Vulture - https://roll20.net/compendium/dnd5e/Monsters:Giant%20Vulture#h-Giant%20Vulture
+Harpy - https://roll20.net/compendium/dnd5e/Monsters:Harpy#h-Harpy
+Hippogriff - https://roll20.net/compendium/dnd5e/Monsters:Hippogriff#h-Hippogriff
+Imp - https://roll20.net/compendium/dnd5e/Monsters:Imp#h-Imp
+Lion - https://roll20.net/compendium/dnd5e/Monsters:Lion#h-Lion
+Quasit - https://roll20.net/compendium/dnd5e/Monsters:Quasit#h-Quasit
+Specter - https://roll20.net/compendium/dnd5e/Monsters:Specter#h-Specter
+Spy - https://roll20.net/compendium/dnd5e/Monsters:Spy#h-Spy
+Swarm of Quippers - https://roll20.net/compendium/dnd5e/Monsters:Swarm%20of%20Quippers#h-Swarm%20of%20Quippers
+Tiger - https://roll20.net/compendium/dnd5e/Monsters:Tiger#h-Tiger
+
+CR 2
+Ankheg - https://roll20.net/compendium/dnd5e/Monsters:Ankheg#h-Ankheg
+Awakened Tree - https://roll20.net/compendium/dnd5e/Monsters:Awakened%20Tree#h-Awakened%20Tree
+Azer - https://roll20.net/compendium/dnd5e/Monsters:Azer#h-Azer
+Bandit Captain - https://roll20.net/compendium/dnd5e/Monsters:Bandit%20Captain#h-Bandit%20Captain
+Berserker - https://roll20.net/compendium/dnd5e/Monsters:Berserker#h-Berserker
+Black Dragon Wyrmling - https://roll20.net/compendium/dnd5e/Monsters:Black%20Dragon%20Wyrmling#h-Black%20Dragon%20Wyrmling
+Bronze Dragon Wyrmling - https://roll20.net/compendium/dnd5e/Monsters:Bronze%20Dragon%20Wyrmling#h-Bronze%20Dragon%20Wyrmling
+Centaur - https://roll20.net/compendium/dnd5e/Monsters:Centaur#h-Centaur
+Cult Fanatic - https://roll20.net/compendium/dnd5e/Monsters:Cult%20Fanatic#h-Cult%20Fanatic
+Druid - https://roll20.net/compendium/dnd5e/Monsters:Druid#h-Druid
+Ettercap - https://roll20.net/compendium/dnd5e/Monsters:Ettercap#h-Ettercap
+Gargoyle - https://roll20.net/compendium/dnd5e/Monsters:Gargoyle#h-Gargoyle
+Gelatinous Cube - https://roll20.net/compendium/dnd5e/Monsters:Gelatinous%20Cube#h-Gelatinous%20Cube
+Ghast - https://roll20.net/compendium/dnd5e/Monsters:Ghast#h-Ghast
+Giant Boar - https://roll20.net/compendium/dnd5e/Monsters:Giant%20Boar#h-Giant%20Boar
+Giant Constrictor Snake - https://roll20.net/compendium/dnd5e/Monsters:Giant%20Constrictor%20Snake#h-Giant%20Constrictor%20Snake
+Giant Elk - https://roll20.net/compendium/dnd5e/Monsters:Giant%20Elk#h-Giant%20Elk
+Gibbering Mouther - https://roll20.net/compendium/dnd5e/Monsters:Gibbering%20Mouther#h-Gibbering%20Mouther
+Green Dragon Wyrmling - https://roll20.net/compendium/dnd5e/Monsters:Green%20Dragon%20Wyrmling#h-Green%20Dragon%20Wyrmling
+Grick - https://roll20.net/compendium/dnd5e/Monsters:Grick#h-Grick
+Griffon - https://roll20.net/compendium/dnd5e/Monsters:Griffon#h-Griffon
+Hunter Shark - https://roll20.net/compendium/dnd5e/Monsters:Hunter%20Shark#h-Hunter%20Shark
+Merrow - https://roll20.net/compendium/dnd5e/Monsters:Merrow#h-Merrow
+Mimic - https://roll20.net/compendium/dnd5e/Monsters:Mimic#h-Mimic
+Minotaur Skeleton - https://roll20.net/compendium/dnd5e/Monsters:Minotaur%20Skeleton#h-Minotaur%20Skeleton
+Ochre Jelly - https://roll20.net/compendium/dnd5e/Monsters:Ochre%20Jelly#h-Ochre%20Jelly
+Ogre - https://roll20.net/compendium/dnd5e/Monsters:Ogre#h-Ogre
+Ogre Zombie - https://roll20.net/compendium/dnd5e/Monsters:Ogre%20Zombie#h-Ogre%20Zombie
+Pegasus - https://roll20.net/compendium/dnd5e/Monsters:Pegasus#h-Pegasus
+Plesiosaurus - https://roll20.net/compendium/dnd5e/Monsters:Plesiosaurus#h-Plesiosaurus
+Polar Bear - https://roll20.net/compendium/dnd5e/Monsters:Polar%20Bear#h-Polar%20Bear
+Priest - https://roll20.net/compendium/dnd5e/Monsters:Priest#h-Priest
+Rhinoceros - https://roll20.net/compendium/dnd5e/Monsters:Rhinoceros#h-Rhinoceros
+Rug of Smothering - https://roll20.net/compendium/dnd5e/Monsters:Rug%20of%20Smothering#h-Rug%20of%20Smothering
+Saber-Toothed Tiger - https://roll20.net/compendium/dnd5e/Monsters:Saber-Toothed%20Tiger#h-Saber-Toothed%20Tiger
+Sea Hag - https://roll20.net/compendium/dnd5e/Monsters:Sea%20Hag#h-Sea%20Hag
+Silver Dragon Wyrmling - https://roll20.net/compendium/dnd5e/Monsters:Silver%20Dragon%20Wyrmling#h-Silver%20Dragon%20Wyrmling
+Swarm of Poisonous Snakes - https://roll20.net/compendium/dnd5e/Monsters:Swarm%20of%20Poisonous%20Snakes#h-Swarm%20of%20Poisonous%20Snakes
+Wererat - https://roll20.net/compendium/dnd5e/Monsters:Wererat#h-Wererat
+White Dragon Wyrmling - https://roll20.net/compendium/dnd5e/Monsters:White%20Dragon%20Wyrmling#h-White%20Dragon%20Wyrmling
+Will-o'-Wisp - https://roll20.net/compendium/dnd5e/Monsters:Will-o%27-Wisp#h-Will-o%27-Wisp
