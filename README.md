@@ -8,3 +8,21 @@
 
 ###### The entire point of this is to improve your experience in improvising as a DM as well as giving your players a fun and hectic experience that's different every time!
 ###### As of right now, the OneShotGenerator only creates first level one shot campaigns.
+
+### Installing Dependencies
+
+Install the libraries used the following command:
+
+```
+pip install -r requirements.txt
+```
+
+### Running the Program
+
+Install the libraries using the following command:
+
+```
+python one_shot_generator.py
+```
+
+You can view the web-app on the following link: http://127.0.0.1:5000/

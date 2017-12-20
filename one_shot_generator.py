@@ -1,5 +1,6 @@
 from flask import Flask, render_template
 from random import randint
+from faker import Faker
 
 app = Flask(__name__)
 
@@ -7,7 +8,7 @@ app = Flask(__name__)
 @app.route('/')
 def main():
     abilityAverage = 0
-
+    fake = Faker()
     # Prevent the overall ability average from being less than 12
     while (abilityAverage < 12):
         strengthScore = randint(3,18)
@@ -19,7 +20,7 @@ def main():
         abilityAverage = (strengthScore + dexterityScore + constitutionScore + wisdomScore + intelligenceScore + charismaScore)/6
 
     return render_template('index.html',
-                           charname="Kevin",
+                           charname=fake.name(),
                            Strengthscore = strengthScore,
                            Dexterityscore = dexterityScore,
                            Constitutionscore = constitutionScore,
