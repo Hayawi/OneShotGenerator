@@ -842,7 +842,7 @@ form.charsheet main section.features div textarea {
 <form class="charsheet">
   <header>
     <section class="charname">
-      <label for="charname">Character Name</label><input name="charname" placeholder="Thoradin Fireforge" />
+      <label for="charname">Character Name</label><input type="text" name="charname" value="{{ charname }}" readonly/>
     </section>
     <section class="misc">
       <ul>
@@ -874,10 +874,10 @@ form.charsheet main section.features div textarea {
           <ul>
             <li>
               <div class="score">
-                <label for="Strengthscore">Strength</label><input name="Strengthscore" placeholder="10" class="stat"/>
+                <label for="Strengthscore">Strength</label><input type="text" name="Strengthscore" value="{{ Strengthscore }}" readonly/>
               </div>
               <div class="modifier">
-                <input name="Strengthmod" placeholder="+0" class="statmod"/>
+                  <input type="Strengthmod" class="statmod" name="charname" value="+{{ Strengthmod }}" readonly/>
               </div>
             </li>
             <li>
