@@ -1,5 +1,7 @@
 from random import randint
 from faker import Faker
+import requests
+import json
 
 class characterSheet(object):
 
@@ -41,9 +43,15 @@ class characterSheet(object):
         self.wisdomMod = self.getAbilityModifier(self.wisdomScore)
         self.intelligenceMod = self.getAbilityModifier(self.intelligenceScore)
         self.charismaMod = self.getAbilityModifier(self.charismaScore)
+        self.charClass = self.getRandomClass() + ' 1'
 
     def getAbilityModifier(self, mod):
         val = (mod-10)/2
         if val >= 0:
             return '+{}'.format((mod-10)/2)
         else: return (mod-10)/2
+
+    def getRandomClass(self):
+        resp = requests.get('http://www.dnd5eapi.co/api/classes/').json()
+        return resp['results'][randint(0, resp['count']-1)]['name']
+
