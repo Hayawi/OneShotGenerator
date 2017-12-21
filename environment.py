@@ -6,8 +6,8 @@ class environment(object):
 		dungeonRow = 30
 		dungeonCol = 60
 		dungeonMap = [[1 for i in range(dungeonCol)] for j in range(dungeonRow)] 
-		initializationPass = 3 
-		carvingPass = 6
+		initializationPass = 5
+		carvingPass = 3
 		for i in range(initializationPass): 
 			for j in range (dungeonRow): 
 				for k in range (dungeonCol): 
