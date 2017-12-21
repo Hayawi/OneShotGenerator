@@ -46,6 +46,7 @@ class characterSheet(object):
         self.charismaMod = self.getAbilityModifier(self.charismaScore)
         self.charClass = self.getRandomJsonInfo('classes') + ' 1'
         self.charRace = self.getRandomJsonInfo('races')
+        self.charBackground = self.getRandomJsonInfo('backgrounds')
 
     def getAbilityModifier(self, mod):
         val = (mod-10)/2
