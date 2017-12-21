@@ -859,16 +859,16 @@ form.charsheet main section.features div textarea {
           <label for="background">Background</label><input type="text" name="background" value="{{ background }}" readonly/>
         </li>
         <li>
-          <label for="playername">Player Name</label><input name="playername" placeholder="Player McPlayerface">
+          <label for="playername">Player Name</label><input name="playername" placeholder="Your Name">
         </li>
         <li>
           <label for="race">Race</label><input type="text" name="classlevel" value="{{ race }}" readonly/>
         </li>
         <li>
-          <label for="alignment">Alignment</label><input name="alignment" placeholder="Lawful Good" />
+          <label for="alignment">Alignment</label><input type="text" name="alignment" value="{{ alignment }}" readonly/>
         </li>
         <li>
-          <label for="experiencepoints">Experience Points</label><input name="experiencepoints" placeholder="3240" />
+          <label for="experiencepoints">Experience Points</label><input name="experiencepoints" placeholder="0" />
         </li>
       </ul>
     </section>
@@ -1048,7 +1048,7 @@ form.charsheet main section.features div textarea {
         </div>
         <div class="initiative">
           <div>
-            <label for="initiative">Initiative</label><input name="initiative" placeholder="+0" type="text" />
+            <label for="initiative">Initiative</label><input type="text" name="initiative" value="{{ Dexteritymod }}" readonly/>
           </div>
         </div>
         <div class="speed">

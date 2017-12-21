@@ -24,7 +24,8 @@ def main():
                                Charismamod = c.charismaMod,
                                classlevel = c.charClass,
                                race = c.charRace,
-                               background = c.charBackground)
+                               background = c.charBackground,
+                               alignment = c.charAlignment)
 							   
 @app.route('/dungeon')
 def creatDungeon():

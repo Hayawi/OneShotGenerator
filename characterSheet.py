@@ -47,6 +47,7 @@ class characterSheet(object):
         self.charClass = self.getRandomJsonInfo('classes') + ' 1'
         self.charRace = self.getRandomJsonInfo('races')
         self.charBackground = self.getRandomJsonInfo('backgrounds')
+        self.charAlignment = self.getRandomJsonInfo('alignment')
 
     def getAbilityModifier(self, mod):
         val = (mod-10)/2
