@@ -1,11 +1,19 @@
 {% include 'layout.html' %}
 
 {% block body %}
+	
 	<center>
 	<pre>
-      <div class="starter-template">
-        <p class="lead">The generated dungeon is:<br><br><br>{{ dungeon }}</p>
-      </div>
+		<form method="POST" style=" text-align: justify;margin: 0 auto;width: 30em;">
+			<p style="margin-bottom:0">Initialization Pass <input type="text" name="InitPass" value="{{ initPassVal }}"></p>
+			<p style="margin-bottom:0">Carving Pass        <input type="text" name="CarvePass" value="{{ carvePassVal }}"></p>
+			<p style="margin-bottom:0">Dungeon Size  <input type="text" name="column" value="{{ colVal }}"> x  <input type="text" name="row" value="{{ rowVal }}"></p>
+		<input type="submit"value="Generate Dungeon">
+		</form>
+		<div class="starter-template">
+			<p class="lead">{{ generatedText }}<br><br><br>{{ dungeon }}</p>
+		</div>
 	</pre>
 	</center>
+
 {% endblock %}

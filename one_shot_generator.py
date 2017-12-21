@@ -1,4 +1,4 @@
-from flask import Flask, render_template
+from flask import Flask, render_template, request
 from characterSheet import characterSheet as cSheet
 from environment import environment
 
@@ -25,9 +25,13 @@ def main():
                                classlevel = c.charClass)
 							   
 @app.route('/dungeon')
-def creatDungeon():
-	createdDungeon = environment()
-	return render_template('home.html', dungeon=createdDungeon.dungeonLayout)
+def createDungeon():
+	return render_template('home.html', initPassVal="5", carvePassVal="3", colVal="60", rowVal="30")
+
+@app.route('/dungeon', methods=['POST'])
+def createDungeonPost():
+	createdDungeon = environment(request.form['row'], request.form['column'], request.form['InitPass'], request.form['CarvePass'])
+	return render_template('home.html', generatedText="The generated dungeon is:",dungeon=createdDungeon.dungeonLayout, initPassVal=createdDungeon.initializationPass, carvePassVal=createdDungeon.carvingPass, colVal=createdDungeon.dungeonCol, rowVal=createdDungeon.dungeonRow)
 
 if __name__ == '__main__':
     app.run()
