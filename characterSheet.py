@@ -2,6 +2,7 @@ from random import randint
 from faker import Faker
 import requests
 import json
+import os
 
 class characterSheet(object):
 
@@ -43,7 +44,8 @@ class characterSheet(object):
         self.wisdomMod = self.getAbilityModifier(self.wisdomScore)
         self.intelligenceMod = self.getAbilityModifier(self.intelligenceScore)
         self.charismaMod = self.getAbilityModifier(self.charismaScore)
-        self.charClass = self.getRandomClass() + ' 1'
+        self.charClass = self.getRandomJsonInfo('classes') + ' 1'
+        self.charRace = self.getRandomJsonInfo('races')
 
     def getAbilityModifier(self, mod):
         val = (mod-10)/2
@@ -51,7 +53,8 @@ class characterSheet(object):
             return '+{}'.format((mod-10)/2)
         else: return (mod-10)/2
 
-    def getRandomClass(self):
-        resp = requests.get('http://www.dnd5eapi.co/api/classes/').json()
-        return resp['results'][randint(0, resp['count']-1)]['name']
+    def getRandomJsonInfo(self, filename):
+        path = os.path.abspath(os.path.dirname(__file__)) + os.path.join(os.path.sep, 'json', '' + filename + '.json')
+        data = json.load(open(path))
+        return data['results'][randint(0, data['count']-1)]['name']
 

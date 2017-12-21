@@ -1,0 +1,59 @@
+{
+   "count":18,
+   "results":[
+      {
+         "name":"Dwarf"
+      },
+      {
+         "name":"Hill Dwarf"
+      },
+      {
+         "name":"Mountain Dwarf"
+      },
+      {
+         "name":"Elf"
+      },
+      {
+         "name":"High Elf"
+      },
+      {
+         "name":"Wood Elf"
+      },
+      {
+         "name":"Dark Elf"
+      },
+      {
+         "name":"Halfling"
+      },
+      {
+         "name":"Lightfoot Halfling"
+      },
+      {
+         "name":"Stout Halfling"
+      },
+      {
+         "name":"Human"
+      },
+      {
+         "name":"Dragonborn"
+      },
+      {
+         "name":"Gnome"
+      },
+      {
+         "name":"Forest Gnome"
+      },
+      {
+         "name":"Rock Gnome"
+      },
+      {
+         "name":"Half-Elf"
+      },
+      {
+         "name":"Half-Orc"
+      },
+      {
+         "name":"Tiefling"
+      }
+   ]
+}

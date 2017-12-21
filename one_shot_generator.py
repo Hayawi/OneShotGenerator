@@ -22,7 +22,8 @@ def main():
                                Wisdommod = c.wisdomMod,
                                Intelligencemod = c.intelligenceMod,
                                Charismamod = c.charismaMod,
-                               classlevel = c.charClass)
+                               classlevel = c.charClass,
+                               race = c.charRace)
 							   
 @app.route('/dungeon')
 def creatDungeon():
