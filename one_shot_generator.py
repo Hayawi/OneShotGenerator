@@ -25,7 +25,11 @@ def main():
                                classlevel = c.charClass,
                                race = c.charRace,
                                background = c.charBackground,
-                               alignment = c.charAlignment)
+                               alignment = c.charAlignment,
+                               personality = c.charPersonality,
+                                ideals = c.charIdeal,
+                                bonds = c.charBond,
+                                flaws = c.charFlaw)
 							   
 @app.route('/dungeon')
 def creatDungeon():

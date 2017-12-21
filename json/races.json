@@ -1,17 +1,11 @@
 {
-   "count":18,
+   "count":14,
    "results":[
-      {
-         "name":"Dwarf"
-      },
       {
          "name":"Hill Dwarf"
       },
       {
          "name":"Mountain Dwarf"
-      },
-      {
-         "name":"Elf"
       },
       {
          "name":"High Elf"
@@ -21,9 +15,6 @@
       },
       {
          "name":"Dark Elf"
-      },
-      {
-         "name":"Halfling"
       },
       {
          "name":"Lightfoot Halfling"
@@ -36,9 +27,6 @@
       },
       {
          "name":"Dragonborn"
-      },
-      {
-         "name":"Gnome"
       },
       {
          "name":"Forest Gnome"

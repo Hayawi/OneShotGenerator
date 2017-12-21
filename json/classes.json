@@ -3,51 +3,100 @@
    "results":[
       {
          "name":"Barbarian",
-         "url":"http://www.dnd5eapi.co/api/classes/1"
+         "hitDie":"d12",
+         "primaryAbility":"Strength",
+         "savingThrows":"Strength, Constitution",
+         "armorProficiences":"Light, Medium, Shields",
+         "weaponProficiencies":"Simple, Martial"
       },
       {
          "name":"Bard",
-         "url":"http://www.dnd5eapi.co/api/classes/2"
+         "hitDie":"d8",
+         "primaryAbility":"Charisma",
+         "savingThrows":"Dexterity, Charisma",
+         "armorProficiences":"Light",
+         "weaponProficiencies":"Simple, Hand Crossbows, Longswords, Rapiers, Shortswords"
       },
       {
          "name":"Cleric",
-         "url":"http://www.dnd5eapi.co/api/classes/3"
+         "hitDie":"d8",
+         "primaryAbility":"Wisdom",
+         "savingThrows":"Wisdom, Charisma",
+         "armorProficiences":"Light, Medium, Shields",
+         "weaponProficiencies":"Simple"
       },
       {
          "name":"Druid",
-         "url":"http://www.dnd5eapi.co/api/classes/4"
+         "hitDie":"d8",
+         "primaryAbility":"Wisdom",
+         "savingThrows":"Intelligence, Wisdom",
+         "armorProficiences":"Light, Medium, Shields",
+         "weaponProficiencies":"Clubs, Daggers, Darts, Javelins, Maces, Quarterstaffs, Scimitars, Sickles, Slings, Spears"
       },
       {
          "name":"Fighter",
-         "url":"http://www.dnd5eapi.co/api/classes/5"
+         "hitDie":"d10",
+         "primaryAbility":"Strength, Dexterity",
+         "savingThrows":"Strength, Constitution",
+         "armorProficiences":"Light, Medium, Heavy, Shields",
+         "weaponProficiencies":"Simple, Martial"
+
       },
       {
          "name":"Monk",
-         "url":"http://www.dnd5eapi.co/api/classes/6"
+         "hitDie":"d8",
+         "primaryAbility":"Dexterity, Wisdom",
+         "savingThrows":"Strength, Dexterity",
+         "armorProficiences":"",
+         "weaponProficiencies":"Simple, Shortswords"
       },
       {
          "name":"Paladin",
-         "url":"http://www.dnd5eapi.co/api/classes/7"
+         "hitDie":"d10",
+         "primaryAbility":"Strength, Charisma",
+         "savingThrows":"Wisdom, Charisma",
+         "armorProficiences":"Light, Medium, Heavy, Shields",
+         "weaponProficiencies":"Simple, Martial"
       },
       {
          "name":"Ranger",
-         "url":"http://www.dnd5eapi.co/api/classes/8"
+         "hitDie":"d10",
+         "primaryAbility":"Dexterity, Wisdom",
+         "savingThrows":"Strength, Dexterity",
+         "armorProficiences":"Light, Medium, Shields",
+         "weaponProficiencies":"Simple, Martial"
       },
       {
          "name":"Rogue",
-         "url":"http://www.dnd5eapi.co/api/classes/9"
+         "hitDie":"d8",
+         "primaryAbility":"Dexterity",
+         "savingThrows":"Dexterity, Intelligence",
+         "armorProficiences":"Light",
+         "weaponProficiencies":"Simple, Hand Crossbows, Longswords, Rapiers, Shortswords"
       },
       {
          "name":"Sorcerer",
-         "url":"http://www.dnd5eapi.co/api/classes/10"
+         "hitDie":"d6",
+         "primaryAbility":"Charisma",
+         "savingThrows":"Constitution, Charisma",
+         "armorProficiences":"",
+         "weaponProficiencies":"Dagger, Darts, Slings, Quarterstaffs, Light Crossbows"
       },
       {
          "name":"Warlock",
-         "url":"http://www.dnd5eapi.co/api/classes/11"
+         "hitDie":"d8",
+         "primaryAbility":"Charisma",
+         "savingThrows":"Wisdom, Charisma",
+         "armorProficiences":"Light",
+         "weaponProficiencies":"Simple"
       },
       {
          "name":"Wizard",
-         "url":"http://www.dnd5eapi.co/api/classes/12"
+         "hitDie":"d6",
+         "primaryAbility":"Intelligence",
+         "savingThrows":"Intelligence, Wisdom",
+         "armorProficiences":"",
+         "weaponProficiencies":"Daggers, Darts, Slings, Quarterstaffs, Light Crossbows"
       }
    ]
 }
