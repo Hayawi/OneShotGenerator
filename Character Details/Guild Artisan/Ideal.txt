@@ -1,17 +1,6 @@
-1. Community. It is the duty of all civilized people to
-strengthen the bonds of community and the security
-of civillzation. (Lawful)
-
-2. Generosity. My talents were given to me so that I could
-use them to benefit the world. (Good)
-
-3. Freedom. Everyone should be free to pursue his or her
-own livelihood. (Chaotic)
-
-4. Greed. I'm only in it for the money. (Evil)
-
-5 People. I'm committed to the people I care about, not
-to ideals. (Neutral)
-
-6. Aspiration. I work hard to be the best there is at
-my craft.
+Lawful - Community. It is the duty of all civilized people to strengthen the bonds of community and the security of civillzation. 
+Good - Generosity. My talents were given to me so that I could use them to benefit the world. 
+Chaotic - Freedom. Everyone should be free to pursue his or her own livelihood. 
+Evil - Greed. I'm only in it for the money. 
+Neutral - People. I'm committed to the people I care about, not to ideals. 
+Any - Aspiration. I work hard to be the best there is at my craft.

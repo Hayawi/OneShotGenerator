@@ -1,17 +1,6 @@
-1. Beauty. When I perform, I make the world better than
-it was. (Good)
-
-2. Tradition. the stories, legends, and songs of the past
-must never be forgotten, for they teach us who we
-are. (Lawful)
-
-3. Creativity. the world is in need of new ideas and bold
-action. (Chaotic)
-
-4. Greed. I'm only in it for the money and fame. (Evil)
-
-5. People. I like seeing the smiles on people's faces when
-I perform. that's all that matters. (Neutral)
-
-6. Honesty. Art should reflect the soul; it should come
-from within and reveal who we really are. (Any)
+Good - Beauty. When I perform, I make the world better than it was. 
+Lawful - Tradition. the stories, legends, and songs of the past must never be forgotten, for they teach us who we are. 
+Chaotic - Creativity. the world is in need of new ideas and bold action. 
+Evil - Greed. I'm only in it for the money and fame. 
+Neutral - People. I like seeing the smiles on people's faces when I perform. that's all that matters. 
+Any - Honesty. Art should reflect the soul; it should come from within and reveal who we really are. 
