@@ -1,0 +1,29 @@
+1) Your trusty prospector (name, race) has tasked your group to investigate a cave in the (direction) (location) of (name). He mentioned that there were (monsters) in the area so be careful!
+
+2) A landowner to the (direction) district is under suspicion of kidnapping the (noble/royal)'s (relative). You need to find out what the issue is while (not) taking things into your own hands to deal with the situation. Here is a warrant to inspect the place in the name of the city's peace!
+
+3) The neighbouring city of (name) is under siege by (monsters). Your guild (name) has posted a quest to aid this city as best as possible. There are going to be (monsters) along the way so watch your step! Report back when the mission is completed. Stay safe!
+
+4) There have been reports of stolen goods at the local tavern (name). Head towards them in the (direction) area and ask the owner (name) for more information. - There are (monsters) that are scampering in the sewers and if they keep doing this then it won't be long before the whole town is cleared of its storage.
+
+5) We heard rumours of there being a mafia meetup at (name) and we're afraid they're up to something big! Take your group and head there and report back with your findings! Be careful not to make too much noise or it won't bode well for you.
+
+6) Your guild (name) has been tasked to aid (name) in transporting his goods to (name) city. He has offered quite a sum for this mission which is suspicious. Be careful, there might be (monsters) along the way.
+
+7) There have been sightings of an unknown creature to (direction). The locals there might know a bit more information. - The being looks like (monsters) and it's (scaring/raiding) the local (cattle/farmland). If this keeps up, there won't be anything worth selling.
+
+8) There has been an issue with the town running out of food. Investigate what the source of this problem is and solve it for a pretty penny offered by the local townspeople.
+
+9) There is a tree that belongs to the deity (name) and we have to water it or else bad luck befalls this town. This tree ages really fast so it needs a lot more water than usual and the town is short on water for it and we need help. Your help will be much appreciated and the town will owe you should this be completed.
+
+10) The royal wedding is coming up real soon and they expect the best of the best for the meals thus some special ingredients are in order and your group has been tasked for this quest. Once this quest is completed and everything goes well then your reward will be handed out.
+
+11) There are waterfalls in the area of (name) and, unusually, they are falling upwards. It seems to go up and up into the sky for some reason. Find out what is going on and whatever you find is to be returned to the army of (name) to be analysed. Anything further than that is yours to keep.
+
+12) There have been sightings of rabid (monsters) near the (direction). They weren't always like this and they are scaring the locals and any possible tourists we might have in this flourishing town of (name). Find out what is causing this sudden change and (name) will be forever in your debt.
+
+13) The air around (name) has been very unsettling and it gets worse the further (direction) you go. Check out what the source of this horrid scent is as it is causing the town's crops to not grow well and the animals aren't performing well in these conditions.
+
+14) The circus is coming to (name) in 2 days and there have been rumours about undead trailing the circus wherever they go. Explore this issue and report back with any findings.
+
+15) Magic users within the (name) area are having casting problems where sometimes their magic goes haywire and it is becoming a hazard especially with higher level casters in the area. Aid them in clearing this issue and they will reward you.
