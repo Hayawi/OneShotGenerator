@@ -2,46 +2,60 @@
    "count":14,
    "results":[
       {
-         "name":"Hill Dwarf"
+         "name":"Hill Dwarf",
+         "speed":"25"
       },
       {
-         "name":"Mountain Dwarf"
+         "name":"Mountain Dwarf",
+         "speed":"25"
       },
       {
-         "name":"High Elf"
+         "name":"High Elf",
+         "speed":"30"
       },
       {
-         "name":"Wood Elf"
+         "name":"Wood Elf",
+         "speed":"35"
       },
       {
-         "name":"Dark Elf"
+         "name":"Dark Elf",
+         "speed":"30"
       },
       {
-         "name":"Lightfoot Halfling"
+         "name":"Lightfoot Halfling",
+         "speed":"25"
       },
       {
-         "name":"Stout Halfling"
+         "name":"Stout Halfling",
+         "speed":"25"
       },
       {
-         "name":"Human"
+         "name":"Human",
+         "speed":"30"
       },
       {
-         "name":"Dragonborn"
+         "name":"Dragonborn",
+         "speed":"30"
       },
       {
-         "name":"Forest Gnome"
+         "name":"Forest Gnome",
+         "speed":"25"
       },
       {
-         "name":"Rock Gnome"
+         "name":"Rock Gnome",
+         "speed":"25"
       },
       {
-         "name":"Half-Elf"
+         "name":"Half-Elf",
+         "speed":"30"
       },
       {
-         "name":"Half-Orc"
+         "name":"Half-Orc",
+         "speed":"30"
       },
       {
-         "name":"Tiefling"
+         "name":"Tiefling",
+         "speed":"30"
       }
    ]
 }

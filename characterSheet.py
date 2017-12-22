@@ -44,14 +44,15 @@ class characterSheet(object):
         self.wisdomMod = self.getAbilityModifier(self.wisdomScore)
         self.intelligenceMod = self.getAbilityModifier(self.intelligenceScore)
         self.charismaMod = self.getAbilityModifier(self.charismaScore)
-        self.charClass = self.getRandomJsonInfo('classes') + ' 1'
-        self.charRace = self.getRandomJsonInfo('races')
-        self.charBackground = self.getRandomJsonInfo('backgrounds')
-        self.charAlignment = self.getRandomJsonInfo('alignment')
+        self.charClass = self.getRandomJsonInfo('classes', 'name') + ' 1'
+        self.charRace = self.getRandomJsonInfo('races', 'name')
+        self.charBackground = self.getRandomJsonInfo('backgrounds', 'name')
+        self.charAlignment = self.getRandomJsonInfo('alignment', 'name')
         self.charPersonality = self.getCharacterDetails("Personality Trait", self.charBackground)
         self.charBond = self.getCharacterDetails("Bond", self.charBackground)
         self.charIdeal = self.getCharacterDetails("Ideal", self.charBackground)
         self.charFlaw = self.getCharacterDetails("Flaw", self.charBackground)
+        self.charSpeed = self.getRandomJsonInfo('races', 'speed') + ' ft'
 
     def getAbilityModifier(self, mod):
         val = (mod-10)/2
@@ -59,10 +60,10 @@ class characterSheet(object):
             return '+{}'.format((mod-10)/2)
         else: return (mod-10)/2
 
-    def getRandomJsonInfo(self, filename):
+    def getRandomJsonInfo(self, filename, attribute):
         path = os.path.abspath(os.path.dirname(__file__)) + os.path.join(os.path.sep, 'json', '' + filename + '.json')
         data = json.load(open(path))
-        return data['results'][randint(0, data['count']-1)]['name']
+        return data['results'][randint(0, data['count']-1)][attribute]
 
     def getCharacterDetails(self, detail, background):
         path = os.path.abspath(os.path.dirname(__file__)) + os.path.join(os.path.sep, 'Character Details', background, '' + detail + '.txt')
@@ -74,3 +75,4 @@ class characterSheet(object):
             detailLine = fDetail.readlines()
             fullDetail = detailLine[randint(1, 6) - 1]
         return fullDetail
+

@@ -29,7 +29,8 @@ def main():
                                personality = c.charPersonality,
                                 ideals = c.charIdeal,
                                 bonds = c.charBond,
-                                flaws = c.charFlaw)
+                                flaws = c.charFlaw,
+                                speed = c.charSpeed)
 							   
 @app.route('/dungeon')
 def creatDungeon():
