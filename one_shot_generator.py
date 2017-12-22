@@ -22,7 +22,7 @@ def main():
                                Wisdommod = c.wisdomMod,
                                Intelligencemod = c.intelligenceMod,
                                Charismamod = c.charismaMod,
-                               classlevel = c.charClass,
+                               classlevel = c.charClass + ' ' + str(c.charLevel),
                                race = c.charRace,
                                background = c.charBackground,
                                alignment = c.charAlignment,
@@ -31,7 +31,13 @@ def main():
                                 bonds = c.charBond,
                                 flaws = c.charFlaw,
                                 speed = c.charSpeed,
-                                proficiencybonus = c.charProficiencyBonus)
+                                strengthSaveProf = c.strSavingThrwProf,
+                                dexteritySaveProf= c.dexSavingThrwProf,
+                                constitutionSaveProf= c.conSavingThrwProf,
+                                wisdomSaveProf= c.wisSavingThrwProf,
+                                intelligenceSaveProf= c.intSavingThrwProf,
+                                charismaSaveProf= c.chaSavingThrwProf,
+                                proficiencybonus = '+' + c.charProficiencyBonus)
 							   
 @app.route('/dungeon')
 def creatDungeon():

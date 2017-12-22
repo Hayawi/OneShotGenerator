@@ -46,7 +46,7 @@ class characterSheet(object):
         self.intelligenceMod = self.getAbilityModifier(self.intelligenceScore)
         self.charismaMod = self.getAbilityModifier(self.charismaScore)
         self.charLevel = 1 #later on use RNG to generate fom 1 - 20
-        self.charClass = self.getRandomJsonInfo('classes', 'name') + ' ' + str(self.charLevel)
+        self.charClass = self.getRandomJsonInfo('classes', 'name')
         self.charRace = self.getRandomJsonInfo('races', 'name')
         self.charBackground = self.getRandomJsonInfo('backgrounds', 'name')
         self.charAlignment = self.getRandomJsonInfo('alignment', 'name')
@@ -55,7 +55,13 @@ class characterSheet(object):
         self.charIdeal = self.getCharacterDetails("Ideal", self.charBackground)
         self.charFlaw = self.getCharacterDetails("Flaw", self.charBackground)
         self.charSpeed = self.getRandomJsonInfo('races', 'speed') + ' ft'
-        self.charProficiencyBonus = '+' + str(self.getProficencyBonus(self.charLevel))
+        self.charProficiencyBonus = str(self.getProficencyBonus(self.charLevel))
+        self.strSavingThrwProf = self.getSavingThrowProficiency('Strength')
+        self.dexSavingThrwProf = self.getSavingThrowProficiency('Dexterity')
+        self.conSavingThrwProf = self.getSavingThrowProficiency('Constitution')
+        self.wisSavingThrwProf = self.getSavingThrowProficiency('Wisdom')
+        self.intSavingThrwProf = self.getSavingThrowProficiency('Intelligence')
+        self.chaSavingThrwProf = self.getSavingThrowProficiency('Charisma')
 
     def getAbilityModifier(self, mod):
         val = (mod-10)/2
@@ -81,4 +87,23 @@ class characterSheet(object):
 
     def getProficencyBonus(self, level):
         return int(math.ceil(1/4.0)+1)
+
+    def getIndexOfAttribute(self, filename, attributeKey, attribute):
+        path = os.path.abspath(os.path.dirname(__file__)) + os.path.join(os.path.sep, 'json', '' + filename + '.json')
+        data = json.load(open(path))
+        for x in range(0, data['count']):
+            if data['results'][x][attributeKey] == attribute:
+                return x
+        return -1
+
+    def getJsonInfo(self, filename, index, attributeKey):
+        path = os.path.abspath(os.path.dirname(__file__)) + os.path.join(os.path.sep, 'json', '' + filename + '.json')
+        data = json.load(open(path))
+        return data['results'][index][attributeKey]
+
+    def getSavingThrowProficiency(self, ability):
+        if ability in self.getJsonInfo('classes', self.getIndexOfAttribute('classes', 'name', self.charClass), 'savingThrows'):
+            return 'checked'
+        return ''
+
 
