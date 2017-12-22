@@ -26,12 +26,12 @@ def main():
 							   
 @app.route('/dungeon')
 def createDungeon():
-	return render_template('home.html', initPassVal="5", carvePassVal="3", colVal="60", rowVal="30")
+	return render_template('home.html', initPassVal="5", carvePassVal="3", colVal="60", rowVal="30", numberOfRooms="5")
 
 @app.route('/dungeon', methods=['POST'])
 def createDungeonPost():
-	createdDungeon = environment(request.form['row'], request.form['column'], request.form['InitPass'], request.form['CarvePass'])
-	return render_template('home.html', generatedText="The generated dungeon is:",dungeon=createdDungeon.dungeonLayout, initPassVal=createdDungeon.initializationPass, carvePassVal=createdDungeon.carvingPass, colVal=createdDungeon.dungeonCol, rowVal=createdDungeon.dungeonRow)
+	createdDungeon = environment(request.form['row'], request.form['column'], request.form['InitPass'], request.form['CarvePass'], request.form['rooms'])
+	return render_template('home.html', generatedText="The generated dungeon is:", numberOfRooms=createdDungeon.rooms, dungeon=createdDungeon.dungeonLayout, initPassVal=createdDungeon.initializationPass, carvePassVal=createdDungeon.carvingPass, colVal=createdDungeon.dungeonCol, rowVal=createdDungeon.dungeonRow)
 
 if __name__ == '__main__':
     app.run()
