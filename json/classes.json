@@ -3,7 +3,7 @@
    "results":[
       {
          "name":"Barbarian",
-         "hitDie":"d12",
+         "hitDie":"12",
          "primaryAbility":"Strength",
          "savingThrows":"Strength, Constitution",
          "armorProficiences":"Light, Medium, Shields",
@@ -11,7 +11,7 @@
       },
       {
          "name":"Bard",
-         "hitDie":"d8",
+         "hitDie":"8",
          "primaryAbility":"Charisma",
          "savingThrows":"Dexterity, Charisma",
          "armorProficiences":"Light",
@@ -19,7 +19,7 @@
       },
       {
          "name":"Cleric",
-         "hitDie":"d8",
+         "hitDie":"8",
          "primaryAbility":"Wisdom",
          "savingThrows":"Wisdom, Charisma",
          "armorProficiences":"Light, Medium, Shields",
@@ -27,7 +27,7 @@
       },
       {
          "name":"Druid",
-         "hitDie":"d8",
+         "hitDie":"8",
          "primaryAbility":"Wisdom",
          "savingThrows":"Intelligence, Wisdom",
          "armorProficiences":"Light, Medium, Shields",
@@ -35,7 +35,7 @@
       },
       {
          "name":"Fighter",
-         "hitDie":"d10",
+         "hitDie":"10",
          "primaryAbility":"Strength, Dexterity",
          "savingThrows":"Strength, Constitution",
          "armorProficiences":"Light, Medium, Heavy, Shields",
@@ -44,7 +44,7 @@
       },
       {
          "name":"Monk",
-         "hitDie":"d8",
+         "hitDie":"8",
          "primaryAbility":"Dexterity, Wisdom",
          "savingThrows":"Strength, Dexterity",
          "armorProficiences":"",
@@ -52,7 +52,7 @@
       },
       {
          "name":"Paladin",
-         "hitDie":"d10",
+         "hitDie":"10",
          "primaryAbility":"Strength, Charisma",
          "savingThrows":"Wisdom, Charisma",
          "armorProficiences":"Light, Medium, Heavy, Shields",
@@ -60,7 +60,7 @@
       },
       {
          "name":"Ranger",
-         "hitDie":"d10",
+         "hitDie":"10",
          "primaryAbility":"Dexterity, Wisdom",
          "savingThrows":"Strength, Dexterity",
          "armorProficiences":"Light, Medium, Shields",
@@ -68,7 +68,7 @@
       },
       {
          "name":"Rogue",
-         "hitDie":"d8",
+         "hitDie":"8",
          "primaryAbility":"Dexterity",
          "savingThrows":"Dexterity, Intelligence",
          "armorProficiences":"Light",
@@ -76,7 +76,7 @@
       },
       {
          "name":"Sorcerer",
-         "hitDie":"d6",
+         "hitDie":"6",
          "primaryAbility":"Charisma",
          "savingThrows":"Constitution, Charisma",
          "armorProficiences":"",
@@ -84,7 +84,7 @@
       },
       {
          "name":"Warlock",
-         "hitDie":"d8",
+         "hitDie":"8",
          "primaryAbility":"Charisma",
          "savingThrows":"Wisdom, Charisma",
          "armorProficiences":"Light",
@@ -92,7 +92,7 @@
       },
       {
          "name":"Wizard",
-         "hitDie":"d6",
+         "hitDie":"6",
          "primaryAbility":"Intelligence",
          "savingThrows":"Intelligence, Wisdom",
          "armorProficiences":"",
