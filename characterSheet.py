@@ -62,6 +62,13 @@ class characterSheet(object):
         self.wisSavingThrwProf = self.getSavingThrowProficiency('Wisdom')
         self.intSavingThrwProf = self.getSavingThrowProficiency('Intelligence')
         self.chaSavingThrwProf = self.getSavingThrowProficiency('Charisma')
+        self.strSavingThrw = self.getSavingThrow('Strength', self.strengthMod)
+        self.dexSavingThrw = self.getSavingThrow('Dexterity', self.dexterityMod)
+        self.conSavingThrw = self.getSavingThrow('Constitution', self.constitutionMod)
+        self.wisSavingThrw = self.getSavingThrow('Wisdom', self.wisdomMod)
+        self.intSavingThrw = self.getSavingThrow('Intelligence', self.intelligenceMod)
+        self.chaSavingThrw = self.getSavingThrow('Charisma', self.charismaMod)
+        self.maxHitDie = self.getJsonInfo('classes', self.getIndexOfAttribute('classes', 'name', self.charClass), 'hitDie')
 
     def getAbilityModifier(self, mod):
         val = (mod-10)/2
@@ -106,4 +113,15 @@ class characterSheet(object):
             return 'checked'
         return ''
 
+    def getSavingThrow(self, ability, mod):
+        if self.getSavingThrowProficiency(ability) == 'checked':
+            return int(self.charProficiencyBonus) + int(mod)
+        else:
+            return int(mod)
+
+    def getStringInteger(self, integer):
+        if integer > 0:
+            return '+' + str(integer)
+        else:
+            return integer
 
