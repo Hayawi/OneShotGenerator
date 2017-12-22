@@ -3,6 +3,7 @@ from faker import Faker
 import requests
 import json
 import os
+import math
 
 class characterSheet(object):
 
@@ -44,7 +45,8 @@ class characterSheet(object):
         self.wisdomMod = self.getAbilityModifier(self.wisdomScore)
         self.intelligenceMod = self.getAbilityModifier(self.intelligenceScore)
         self.charismaMod = self.getAbilityModifier(self.charismaScore)
-        self.charClass = self.getRandomJsonInfo('classes', 'name') + ' 1'
+        self.charLevel = 1 #later on use RNG to generate fom 1 - 20
+        self.charClass = self.getRandomJsonInfo('classes', 'name') + ' ' + str(self.charLevel)
         self.charRace = self.getRandomJsonInfo('races', 'name')
         self.charBackground = self.getRandomJsonInfo('backgrounds', 'name')
         self.charAlignment = self.getRandomJsonInfo('alignment', 'name')
@@ -53,6 +55,7 @@ class characterSheet(object):
         self.charIdeal = self.getCharacterDetails("Ideal", self.charBackground)
         self.charFlaw = self.getCharacterDetails("Flaw", self.charBackground)
         self.charSpeed = self.getRandomJsonInfo('races', 'speed') + ' ft'
+        self.charProficiencyBonus = '+' + str(self.getProficencyBonus(self.charLevel))
 
     def getAbilityModifier(self, mod):
         val = (mod-10)/2
@@ -75,4 +78,7 @@ class characterSheet(object):
             detailLine = fDetail.readlines()
             fullDetail = detailLine[randint(1, 6) - 1]
         return fullDetail
+
+    def getProficencyBonus(self, level):
+        return int(math.ceil(1/4.0)+1)
 

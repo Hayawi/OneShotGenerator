@@ -30,7 +30,8 @@ def main():
                                 ideals = c.charIdeal,
                                 bonds = c.charBond,
                                 flaws = c.charFlaw,
-                                speed = c.charSpeed)
+                                speed = c.charSpeed,
+                                proficiencybonus = c.charProficiencyBonus)
 							   
 @app.route('/dungeon')
 def creatDungeon():
