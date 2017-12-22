@@ -1,0 +1,7 @@
+proficiency - seperated by space
+language random # - 21 languages seperated by a space or take all if not random and how many random
+equipment - take them all
+gold gp amount
+toolProficiency - take them all if musical
+musical - 9 instruments randomly pick one. all seperated by a space after musical - add to tool proficiency and equipment
+artisan 17 of them seperated by ',' put into tool proficiency and equipment

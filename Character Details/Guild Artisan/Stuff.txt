@@ -1,0 +1,4 @@
+proficiency Insight Persuasion
+artisan, Alchemist's supplies, Brewer's supplies,carpenter's tools,cobbler's tools,cook's utensils,Glassblower's tools,Jeweler's tools,Leatherworker's tools,Mason's tools,painter's supplies,potter's tools,smith's tools,tinker's tools, weaver's tools,woodcarver's tools
+equipment letter of introduction from guild, set of traveler's clothes
+gold gp 15

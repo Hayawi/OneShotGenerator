@@ -1,0 +1,5 @@
+proficiency Animal Handling Survival
+toolProfiency Vehicle (land)
+artisan, Alchemist's supplies, Brewer's supplies,carpenter's tools,cobbler's tools,cook's utensils,Glassblower's tools,Jeweler's tools,Leatherworker's tools,Mason's tools,painter's supplies,potter's tools,smith's tools,tinker's tools, weaver's tools,woodcarver's tools
+equipment shovel, iron pot, set of common clothes
+gold gp 10

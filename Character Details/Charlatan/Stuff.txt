@@ -1,0 +1,4 @@
+proficiency Deception Sleight of Hand
+toolProficiency Disguise kit, Forgery kit
+equipment fine clothes, disguise kit, tools (ten stoppered bottles filled witth marked cards, or a weighted dice, a deck of marked cards)
+gold gp 15 

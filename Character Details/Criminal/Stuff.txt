@@ -1,0 +1,4 @@
+proficiency Deception Stealth
+toolProficiency Dice Set, Playing card Set, thieve's tools
+equipment crowbar, dark common clothes + hood
+gold gp 15

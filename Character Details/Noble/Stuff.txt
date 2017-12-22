@@ -1,0 +1,5 @@
+proficiency History Persuasion
+toolProficiency Dice Set, Playing Card Set
+Language random 1 abyssal aquan auran celestial common draconic druidic dwarvish elvish giant gnomish goblin gnoll halfing ignan infernal orc primordial sylvan terran undercommon
+equipment set of fine clothes, signed ring, scroll of pedigree
+gold gp 25

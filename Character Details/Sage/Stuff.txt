@@ -1,0 +1,4 @@
+proficiency Arcana History
+language random 2 abyssal aquan auran celestial common draconic druidic dwarvish elvish giant gnomish goblin gnoll halfing ignan infernal orc primordial sylvan terran undercommon
+equipment bottle of black ink, quill, small knife, letter from a ead colleague posing a question you have not yet been able to answer, set of common clothes
+gold gp 10

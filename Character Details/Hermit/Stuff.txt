@@ -1,0 +1,5 @@
+proficiency Medicine Religion
+toolProficiency Herbalism kit
+language random 1 abyssal aquan auran celestial common draconic druidic dwarvish elvish giant gnomish goblin gnoll halfing ignan infernal orc primordial sylvan terran undercommon
+equipment scroll case stuffed full of notes from your studies, winter blanket, set of common clothes, herbalism kit
+gold gp 5

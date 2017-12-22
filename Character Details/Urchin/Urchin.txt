@@ -1,0 +1,4 @@
+proficiency Sleight of Hand Stealth
+toolProficiencies Disguise kit, thieve's tools
+equipment small knife, map of the city you grew up in, a pet mouse, token to remember your parents by, set of common clothes
+gold gp 10

@@ -1,0 +1,5 @@
+proficiency Acrobatics Performance
+toolProficiency Disguise kit
+musical Bagpipes Drum Dulcimer Flute Lute Lyre Horn Shawm Viol
+equipment Love Letter, lock of hair, costume
+gold gp 15

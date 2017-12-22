@@ -1,0 +1,4 @@
+proficiency Insight Religion
+language random 2 abyssal aquan auran celestial common draconic druidic dwarvish elvish giant gnomish goblin gnoll halfing ignan infernal orc primordial sylvan terran undercommon
+equipment: Holy Symbol, prayer book, 5 sticks of incense, vestments, a set of common clothes
+gold gp 15

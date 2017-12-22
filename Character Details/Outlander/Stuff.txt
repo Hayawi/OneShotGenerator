@@ -1,0 +1,5 @@
+proficiency Athletics Survival
+musical Bagpipes Drum Dulcimer Flute Lute Lyre Horn Shawm Viol
+language random 1 abyssal aquan auran celestial common draconic druidic dwarvish elvish giant gnomish goblin gnoll halfing ignan infernal orc primordial sylvan terran undercommon
+equipment staff, hunting trap, trophy from an animal you killed, set of traveler's clothes
+gold gp 10
