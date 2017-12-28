@@ -97,6 +97,10 @@ class environment(object):
 					else:
 						yChange = yChange + 1
 					map[startingY + yChange][startingX + xChange] = 0
+			if (k.roomStatus):
+				for l in range(0, k.xLocation):
+					map[k.yLocation][l] = 0
+				
 		
 		return map
 	
