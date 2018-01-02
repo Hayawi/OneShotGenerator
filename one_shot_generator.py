@@ -45,7 +45,8 @@ def main():
                                 intelligenceSave = c.getStringInteger(c.intSavingThrw),
                                 charismaSave = c.getStringInteger(c.chaSavingThrw),
                                 totalhd = str(c.charLevel) + "d" + str(c.maxHitDie),
-                                maxhp = c.maxHP)
+                                maxhp = c.maxHP,
+                                passiveperception = c.passiveWisdom)
 							   
 @app.route('/dungeon')
 def creatDungeon():

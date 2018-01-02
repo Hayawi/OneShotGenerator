@@ -70,6 +70,7 @@ class characterSheet(object):
         self.chaSavingThrw = self.getSavingThrow('Charisma', self.charismaMod)
         self.maxHitDie = self.getJsonInfo('classes', self.getIndexOfAttribute('classes', 'name', self.charClass), 'hitDie')
         self.maxHP = int(self.maxHitDie) + int(self.constitutionMod)
+        self.passiveWisdom = 10 + int(self.wisdomMod)
 
     def getAbilityModifier(self, mod):
         val = (mod-10)/2
