@@ -54,7 +54,7 @@ class characterSheet(object):
         self.charBond = self.getCharacterDetails("Bond", self.charBackground)
         self.charIdeal = self.getCharacterDetails("Ideal", self.charBackground)
         self.charFlaw = self.getCharacterDetails("Flaw", self.charBackground)
-        self.charSpeed = self.getRandomJsonInfo('races', 'speed') + ' ft'
+        self.charSpeed = self.getJsonInfo('races', self.getIndexOfAttribute('races', 'name', self.charRace), 'speed')
         self.charProficiencyBonus = str(self.getProficencyBonus(self.charLevel))
         self.strSavingThrwProf = self.getSavingThrowProficiency('Strength')
         self.dexSavingThrwProf = self.getSavingThrowProficiency('Dexterity')

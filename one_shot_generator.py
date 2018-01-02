@@ -30,7 +30,7 @@ def main():
                                 ideals = c.charIdeal,
                                 bonds = c.charBond,
                                 flaws = c.charFlaw,
-                                speed = c.charSpeed,
+                                speed = c.charSpeed + 'ft',
                                 strengthSaveProf = c.strSavingThrwProf,
                                 dexteritySaveProf= c.dexSavingThrwProf,
                                 constitutionSaveProf= c.conSavingThrwProf,
@@ -47,7 +47,7 @@ def main():
                                 totalhd = str(c.charLevel) + "d" + str(c.maxHitDie),
                                 maxhp = c.maxHP,
                                 passiveperception = c.passiveWisdom)
-							   
+
 @app.route('/dungeon')
 def creatDungeon():
 	createdDungeon = environment()
