@@ -7,7 +7,8 @@
          "primaryAbility":"Strength",
          "savingThrows":"Strength, Constitution",
          "armorProficiences":"Light, Medium, Shields",
-         "weaponProficiencies":"Simple, Martial"
+         "weaponProficiencies":"Simple, Martial",
+         "wealth":"2d4"
       },
       {
          "name":"Bard",
@@ -15,7 +16,8 @@
          "primaryAbility":"Charisma",
          "savingThrows":"Dexterity, Charisma",
          "armorProficiences":"Light",
-         "weaponProficiencies":"Simple, Hand Crossbows, Longswords, Rapiers, Shortswords"
+         "weaponProficiencies":"Simple, Hand Crossbows, Longswords, Rapiers, Shortswords",
+         "wealth":"5d4"
       },
       {
          "name":"Cleric",
@@ -23,7 +25,8 @@
          "primaryAbility":"Wisdom",
          "savingThrows":"Wisdom, Charisma",
          "armorProficiences":"Light, Medium, Shields",
-         "weaponProficiencies":"Simple"
+         "weaponProficiencies":"Simple",
+         "wealth":"5d4"
       },
       {
          "name":"Druid",
@@ -31,7 +34,8 @@
          "primaryAbility":"Wisdom",
          "savingThrows":"Intelligence, Wisdom",
          "armorProficiences":"Light, Medium, Shields",
-         "weaponProficiencies":"Clubs, Daggers, Darts, Javelins, Maces, Quarterstaffs, Scimitars, Sickles, Slings, Spears"
+         "weaponProficiencies":"Clubs, Daggers, Darts, Javelins, Maces, Quarterstaffs, Scimitars, Sickles, Slings, Spears",
+         "wealth":"2d4"
       },
       {
          "name":"Fighter",
@@ -39,7 +43,8 @@
          "primaryAbility":"Strength, Dexterity",
          "savingThrows":"Strength, Constitution",
          "armorProficiences":"Light, Medium, Heavy, Shields",
-         "weaponProficiencies":"Simple, Martial"
+         "weaponProficiencies":"Simple, Martial",
+         "wealth":"5d4"
 
       },
       {
@@ -48,7 +53,8 @@
          "primaryAbility":"Dexterity, Wisdom",
          "savingThrows":"Strength, Dexterity",
          "armorProficiences":"",
-         "weaponProficiencies":"Simple, Shortswords"
+         "weaponProficiencies":"Simple, Shortswords",
+         "wealth":"5d4"
       },
       {
          "name":"Paladin",
@@ -56,7 +62,8 @@
          "primaryAbility":"Strength, Charisma",
          "savingThrows":"Wisdom, Charisma",
          "armorProficiences":"Light, Medium, Heavy, Shields",
-         "weaponProficiencies":"Simple, Martial"
+         "weaponProficiencies":"Simple, Martial",
+         "wealth":"5d4"
       },
       {
          "name":"Ranger",
@@ -64,7 +71,8 @@
          "primaryAbility":"Dexterity, Wisdom",
          "savingThrows":"Strength, Dexterity",
          "armorProficiences":"Light, Medium, Shields",
-         "weaponProficiencies":"Simple, Martial"
+         "weaponProficiencies":"Simple, Martial",
+         "wealth":"5d4"
       },
       {
          "name":"Rogue",
@@ -72,7 +80,8 @@
          "primaryAbility":"Dexterity",
          "savingThrows":"Dexterity, Intelligence",
          "armorProficiences":"Light",
-         "weaponProficiencies":"Simple, Hand Crossbows, Longswords, Rapiers, Shortswords"
+         "weaponProficiencies":"Simple, Hand Crossbows, Longswords, Rapiers, Shortswords",
+         "wealth":"4d4"
       },
       {
          "name":"Sorcerer",
@@ -80,7 +89,8 @@
          "primaryAbility":"Charisma",
          "savingThrows":"Constitution, Charisma",
          "armorProficiences":"",
-         "weaponProficiencies":"Dagger, Darts, Slings, Quarterstaffs, Light Crossbows"
+         "weaponProficiencies":"Dagger, Darts, Slings, Quarterstaffs, Light Crossbows",
+         "wealth":"3d4"
       },
       {
          "name":"Warlock",
@@ -88,7 +98,8 @@
          "primaryAbility":"Charisma",
          "savingThrows":"Wisdom, Charisma",
          "armorProficiences":"Light",
-         "weaponProficiencies":"Simple"
+         "weaponProficiencies":"Simple",
+         "wealth":"4d4"
       },
       {
          "name":"Wizard",
@@ -96,7 +107,8 @@
          "primaryAbility":"Intelligence",
          "savingThrows":"Intelligence, Wisdom",
          "armorProficiences":"",
-         "weaponProficiencies":"Daggers, Darts, Slings, Quarterstaffs, Light Crossbows"
+         "weaponProficiencies":"Daggers, Darts, Slings, Quarterstaffs, Light Crossbows",
+         "wealth":"4d4"
       }
    ]
 }

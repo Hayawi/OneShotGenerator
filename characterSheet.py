@@ -71,6 +71,7 @@ class characterSheet(object):
         self.maxHitDie = self.getJsonInfo('classes', self.getIndexOfAttribute('classes', 'name', self.charClass), 'hitDie')
         self.maxHP = int(self.maxHitDie) + int(self.constitutionMod)
         self.passiveWisdom = 10 + int(self.wisdomMod)
+        self.gold = self.getStartingGold(self.charClass)
 
     def getAbilityModifier(self, mod):
         val = (mod-10)/2
@@ -127,3 +128,15 @@ class characterSheet(object):
         else:
             return integer
 
+    def dice(self, numberOfDice, diceSide):
+        final_sum = 0
+        for i in range(0, numberOfDice):
+            final_sum += randint(1, diceSide)
+        return final_sum
+
+    def getStartingGold(self, className):
+        diceInfo =  self.getJsonInfo('classes', self.getIndexOfAttribute('classes', 'name', className), 'wealth')
+        gold = self.dice(int(diceInfo[0]), int(diceInfo[2]))
+        if className != 'Monk':
+            gold = gold * 10
+        return gold
