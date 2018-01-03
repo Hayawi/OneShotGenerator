@@ -1,0 +1,14 @@
+Bless
+Command
+Compelled Duel
+Cure Wounds
+Detect Evil and Good
+Detect Magic
+Detect Poison and Disease
+Divine Favor
+Protection from Evil and Good
+Purift Food and Drink
+Searing Smite
+Shield of Faith
+Thunderous Smite
+Wrathful Smite
