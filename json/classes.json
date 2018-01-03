@@ -8,7 +8,11 @@
          "savingThrows":"Strength, Constitution",
          "armorProficiences":"Light, Medium, Shields",
          "weaponProficiencies":"Simple, Martial",
-         "wealth":"2d4"
+         "wealth":"2d4",
+	"weapon1":"battleaxe, flail, glaive, greataxe, greatsword, halberd, lance, longsword, maul, morningstar, pike, rapier, scimitar, shortsword, trident, war pick, whip",
+	"weapon2":"handaxe x 2, club, dagger, greatclub, Light Hammer, Mace, Quarterstaff, sickle, Spear",
+	"weapon3":"Javelins x 4",
+	"equipment":"explorer's pack"
       },
       {
          "name":"Bard",
@@ -17,7 +21,14 @@
          "savingThrows":"Dexterity, Charisma",
          "armorProficiences":"Light",
          "weaponProficiencies":"Simple, Hand Crossbows, Longswords, Rapiers, Shortswords",
-         "wealth":"5d4"
+         "wealth":"5d4",
+	"cantrips":"Blade Ward, Dancing Lights, Friends, Light, Mage Hand, Mending, Message, Minor Illusion, Prestidigitation, True Strike, Vicious Mockery",
+	"spellsLevel1":"Animal Friendship, Bane, Charm Person, Comprehend Languages, Cure Wounds, Detect Magic, Disguise Self, Dissonant Whispers, Faerie Fire, Feather Fall, Healing Word, Heroism, Identify, Illusory Script, Longstrider, Silent Image, Sleep, Speak with Animals, Tasha's Hideous Laughter, Thunderwave, Unseen Servant",
+	 "weapon1":"rapier, longsword, handaxe, club, dagger, greatclub, Light Hammer, Mace, Quarterstaff, sickle, Spear",
+	"weapon2":"dagger",
+	"armor1":"Leather armor",
+	"equipment:"diplomat's pack, entertainer's pack",
+	"instrument":"Bagpipes, Drum, Dulcimer, Flute, Lute, Lyre, Horn, Shawm, Viol"
       },
       {
          "name":"Cleric",
@@ -26,7 +37,14 @@
          "savingThrows":"Wisdom, Charisma",
          "armorProficiences":"Light, Medium, Shields",
          "weaponProficiencies":"Simple",
-         "wealth":"5d4"
+         "wealth":"5d4",
+	"weapon1":"mace, warhammer",
+	"armor1":"scale mail, leather armor,chain mail",
+	"weapon2":"light crossbow with 20 bolts, longsword, handaxe, club, dagger, greatclub, Light Hammer, Mace, Quarterstaff, sickle, Spear",
+	"equipment":"priest's pack, explorer's pack",
+	"armor2":"shield",
+	"accessory":"Holy Symbol"
+	
       },
       {
          "name":"Druid",
@@ -36,6 +54,13 @@
          "armorProficiences":"Light, Medium, Shields",
          "weaponProficiencies":"Clubs, Daggers, Darts, Javelins, Maces, Quarterstaffs, Scimitars, Sickles, Slings, Spears",
          "wealth":"2d4"
+	"cantrips":"Druidcraft, Guidance, Mending, Poison Spray, Produce Flame, Resistance, Shillelagh, Thorn Whip",
+	"spellsLevel1":"Animal Friendship, Charm Person, Create of Destory Water, Cure Wounds, Detect Magic, Detect Poison and Disease, Entangle, Faerie Fire, Fog Cloud, Goodberry, Healing Word, Jump, Longstrider, Purify Food and Drink, Speak with Animals, Thunderwave",
+	"weapon1":"wooden shield, Clubs, Daggers, Darts, Javelins, Maces, Quarterstaffs, Scimitars, Sickles, Slings, Spears",
+        "weapon2":"Scimitar, Clubs, Daggers, Darts, Javelins, Maces, Quarterstaffs, Scimitars, Sickles, Slings, Spears",
+        "armor1":"leather armor",
+	"equipment":"explorer's pack",
+	"focus":"drudic focus"
       },
       {
          "name":"Fighter",
@@ -44,8 +69,11 @@
          "savingThrows":"Strength, Constitution",
          "armorProficiences":"Light, Medium, Heavy, Shields",
          "weaponProficiencies":"Simple, Martial",
-         "wealth":"5d4"
-
+         "wealth":"5d4",
+	"armor1":"chain mail, leather armor with a longbow and 20 arrows",
+	"weapon1":"battleaxe, flail, glaive, greataxe, greatsword, halberd, lance, longsword, maul, morningstar, pike, rapier, scimitar, shortsword, trident, war pick, whip",
+	"weapon2":"light rossbow and 20 bolts, hand axe x 2",
+	"equipment":"dungeoneer's pack, explorer's pack"
       },
       {
          "name":"Monk",
@@ -54,7 +82,10 @@
          "savingThrows":"Strength, Dexterity",
          "armorProficiences":"",
          "weaponProficiencies":"Simple, Shortswords",
-         "wealth":"5d4"
+         "wealth":"5d4",
+	"weapon1":"shortsword,Clubs, Daggers, Darts, Javelins, Maces, Quarterstaffs, Scimitars, Sickles, Slings, Spears",
+        "weapon2":"10 darts",
+	"equipment":"dungoneer's pack, explorer's pack"
       },
       {
          "name":"Paladin",
@@ -63,7 +94,14 @@
          "savingThrows":"Wisdom, Charisma",
          "armorProficiences":"Light, Medium, Heavy, Shields",
          "weaponProficiencies":"Simple, Martial",
-         "wealth":"5d4"
+         "wealth":"5d4",
+	"spellsLevel1":"Bless, Command, Compelled Duel, Cure Wounds, Detect Evil and Good, Detect Magic, Detect Poison and Disease, Divine Favor, Protection from Evil and Good, Purift Food and Drink, Searing Smite, Shield of Faith, Thunderous Smite, Wrathful Smite",
+	"weapon1":"battleaxe, flail, glaive, greataxe, greatsword, halberd, lance, longsword, maul, morningstar, pike, rapier, scimitar, shortsword, trident, war pick, whip",
+	"armor1":"shield",
+	"weapon2":"javelins x 5, Clubs, Daggers, Darts, Javelins, Maces, Quarterstaffs, Scimitars, Sickles, Slings, Spears",
+       "armor2":"chain mail, holy symbol",
+	"equipment":"priest's pack, explorer's pack"
+
       },
       {
          "name":"Ranger",
@@ -72,7 +110,13 @@
          "savingThrows":"Strength, Dexterity",
          "armorProficiences":"Light, Medium, Shields",
          "weaponProficiencies":"Simple, Martial",
-         "wealth":"5d4"
+         "wealth":"5d4",
+	"armor1":"scale mail, leather armor",
+	"weapon1":"shortsword,Clubs, Daggers, Darts, Javelins, Maces, Quarterstaffs, Scimitars, Sickles, Slings, Spears",
+        "equipment":"dungeoneer's pack, explorer's pack",
+	"weapon2":"longbow and a quiver of 20 arrows",
+	"spellsLevel1":"Alarm, Animal Friendship, Cure Wounds, Detect Magic, Detect Poison and Disease, Ensnaring Strike, Fog Cloud, Goodberry, Hail of Thorns, Hunter's Mark, Jump, Longstrider, Speak with Animals",
+
       },
       {
          "name":"Rogue",
@@ -81,7 +125,14 @@
          "savingThrows":"Dexterity, Intelligence",
          "armorProficiences":"Light",
          "weaponProficiencies":"Simple, Hand Crossbows, Longswords, Rapiers, Shortswords",
-         "wealth":"4d4"
+         "wealth":"4d4",
+	"weapon1":"rapier, shortsword",
+	"weapon2":"shortbow and quiver of 20 arrows, shortsword",
+	"equipment":"burglar's pack, dungeoneer's pack, explorer's pack",
+	"armor1":"leather armor",
+	weapon3":"daggers x 2",
+	"tools":"thieves' tools"
+
       },
       {
          "name":"Sorcerer",
@@ -90,7 +141,14 @@
          "savingThrows":"Constitution, Charisma",
          "armorProficiences":"",
          "weaponProficiencies":"Dagger, Darts, Slings, Quarterstaffs, Light Crossbows",
-         "wealth":"3d4"
+         "wealth":"3d4",
+	"cantrips":"Acid Splash, Blade Ward, Chill Touch, Dancing Lights, Fire Bolt, Friends, Light, Mage Hand, Mending, Message, Minor Illusion, Poison Spray, Prestidigitation, Ray of Frost, Shocking Grasp, True Strike",
+	"spellsLevel1":"Burning Hands, Charm Person, Chromatic Orb, Color Spray, Comprehend Languages, Detect Magic, Disguise Self, Expedious Retreat, False Life, Feather Fall, Fog Cloud, Jump, Mage Armor, Magic Missile, Ray of Sickness, Shield, Silent Image, Sleep, Thunderwave, Witch Bolt",
+	"weapon1":"light crossbow and 20 bolts, shortsword,Clubs, Daggers, Darts, Javelins, Maces, Quarterstaffs, Scimitars, Sickles, Slings, Spears",
+        "equipment":"dungeoneer's pack, explorer's pack",
+	"weapon2":"daggers x 2",
+	"focus":"component pouch, arcane focus"
+	
       },
       {
          "name":"Warlock",
@@ -99,7 +157,16 @@
          "savingThrows":"Wisdom, Charisma",
          "armorProficiences":"Light",
          "weaponProficiencies":"Simple",
-         "wealth":"4d4"
+         "wealth":"4d4",
+	"weapon1":"light crossbow and 20 bolts, shortsword,Clubs, Daggers, Darts, Javelins, Maces, Quarterstaffs, Scimitars, Sickles, Slings, Spears",
+        "focus":"component pouch, arcane focus",
+	"equipment":"scholar's pack, dungeoneer's pack",
+	"armor1":"leather armor",
+	"weapon2":"shortsword,Clubs, Daggers, Darts, Javelins, Maces, Quarterstaffs, Scimitars, Sickles, Slings, Spears",
+        "weapon3":"daggers x 2"
+	"cantrips":"Blade Ward, Chill Touch, Eldritch Blast, Friends, Mage Hand, Minor Illusion, Poison Spray, Prestiditation, True Strike",
+	"spellsLevel1":"Armor of Agathys, Arms of Hadar, Charm Person, Comprehend Languages, Expedious Retreat, Hellish Rebuke, Hex, Illusory Script, Protection from Evil and Good, Unseen Servant, Witch Bolt"
+
       },
       {
          "name":"Wizard",
@@ -108,7 +175,13 @@
          "savingThrows":"Intelligence, Wisdom",
          "armorProficiences":"",
          "weaponProficiencies":"Daggers, Darts, Slings, Quarterstaffs, Light Crossbows",
-         "wealth":"4d4"
+         "wealth":"4d4",
+	"Cantrips":"Acid Splash, Blade Ward, Chill Touch, Dancing Lights, Fire Bolt, Friends, Light, Mage Hand, Mending, Message, Minor Illusion, Poison Spray, Prestiditation, Ray of Frost, Shocking Grasp, True Strike",
+	"spellsLevel1":"Alarm, Burning Hands, Charm Person, Chromatic Orb, Color Spray, Comprehend Languages, Detect Magic, Disguise Self, Expedious Retreat, False Life, Feather Fall, Find Familiar, Fog Cloud, Grease, Identify, Illusory Script, Jump, Longstrider, Mage Armor, Magic Missile, Protection from Evil and good, Ray of sickness, Shield, Silent image, Sleep, Tasha's Hideous Laughter, Tenser's Floating Disk, Thunderwave, Unseen Servant, Witch Bolt",
+	"weapon1":"quarterstaff, dagger",
+	"focus":"component pouch, arcane focus",
+	"equipment":"scholar's pack, explorer's pack",
+	"book":"spellbook"
       }
    ]
 }
