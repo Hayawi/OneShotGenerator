@@ -3,7 +3,10 @@
    "results":[
       {
          "name":"Hill Dwarf",
-         "speed":"25"
+         "speed":"25",
+         "abilityScoreIncrease":"Constitution",
+         "abilityScoreValue":"2",
+         "proficiency":"Darkvision"
       },
       {
          "name":"Mountain Dwarf",

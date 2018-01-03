@@ -85,7 +85,7 @@ class characterSheet(object):
         return data['results'][randint(0, data['count']-1)][attribute]
 
     def getCharacterDetails(self, detail, background):
-        path = os.path.abspath(os.path.dirname(__file__)) + os.path.join(os.path.sep, 'Character Details', background, '' + detail + '.txt')
+        path = os.path.abspath(os.path.dirname(__file__)) + os.path.join(os.path.sep, 'Character Details', 'Background', background, '' + detail + '.txt')
         fDetail = open(path, "r")
         if detail == "Personality Trait":
             detailLine = fDetail.readlines()
